@@ -9,13 +9,15 @@
     ... then use in your merge conflicts as ...
     $ meld .
 
-
-## homebrew https://brew.sh/
-
 ## htop http://macappstore.org/htop-osx/
 
-## iterm2 https://www.iterm2.com/
+# Mac setup
+1. Install iterm2 https://www.iterm2.com/
+2. Install homebrew https://brew.sh/
+3. Install oh-my-zsh https://ohmyz.sh/
+4. Install scm_breeze
 
-## oh-my-zsh https://ohmyz.sh/
-
-## scm_breeze https://github.com/scmbreeze/scm_breeze
+    a. create ~/.bashrc
+       
+       $ touch ~/.bashrc
+    b. follow installation from https://github.com/scmbreeze/scm_breeze
