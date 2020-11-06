@@ -9,7 +9,8 @@
     ... then use in your merge conflicts as ...
     $ meld .
 
-## htop http://macappstore.org/htop-osx/
+## htop 
+    $ brew install htop
 
 # Mac setup
 1. Install iterm2 https://www.iterm2.com/
