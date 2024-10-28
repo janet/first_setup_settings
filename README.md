@@ -27,6 +27,6 @@
     b. follow installation from https://github.com/scmbreeze/scm_breeze
 5. Themes: 
 
-    a. terminal - powerlevel10k https://github.com/romkatv/powerlevel10k
+    a. pure - https://github.com/sindresorhus/pure
     
     b. editor - dracula https://draculatheme.com/
